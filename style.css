@@ -13,7 +13,8 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-repeat: none;
+    background-repeat: no-repeat;
+
 }
 h1{
     font-weight: normal;
